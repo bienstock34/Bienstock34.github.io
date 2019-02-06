@@ -1,7 +1,30 @@
-<Head>
-<style>
-	body{background-color: blue;}
-h1 {color: pink;
-	margin left: 40px;}
-</style>
-</Head>
+h1 {
+  color: rgb(100, 100, 255);
+  /*rgb 0-255 value*/
+}
+
+body {
+  background-color: orange;
+  /*name*/
+}
+
+p {
+  color: #000000;
+  /*hex*/
+}
+
+.fancy {
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+#circle {
+  width: 100px;
+  height: 100px;
+  background: rgba(255, 0, 0, .5);
+  border-radius: 50%;
+}
+
+#circle:hover {
+  background: rgba(255, 255, 0, .5);
+}
