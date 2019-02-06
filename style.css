@@ -1,6 +1,6 @@
 
 h1 {
-  color: rgb(67, 201, 167)
+  color: rgb(0, 0, 0)
 }
 
 body {
@@ -8,6 +8,6 @@ body {
 }
   
 p {
-  font-size: 70px;
-  line-height: 40px;
+  font-size: 30px;
+  line-height: 10px;
 }
